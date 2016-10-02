@@ -1,0 +1,7 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/poly-app/poly-app.html",
+  "fragments": [
+    "bower_components/webcomponentsjs/webcomponents-lite.js"
+  ]
+}
